@@ -1,0 +1,11 @@
+{
+  "name": "ntp-sinc",
+  "version": "0.0.1",
+  "description": "atividade de sistemas distribuidos",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
