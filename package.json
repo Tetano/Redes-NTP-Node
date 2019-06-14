@@ -4,8 +4,15 @@
   "description": "atividade de sistemas distribuidos",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ntp-client": "^0.5.3",
+    "ntp-time-sync": "^0.1.0",
+    "timesync": "^1.0.3"
+  }
 }
