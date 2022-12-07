@@ -13,6 +13,6 @@
   "dependencies": {
     "ntp-client": "^0.5.3",
     "ntp-time-sync": "^0.1.0",
-    "timesync": "^1.0.3"
+    "timesync": "^1.0.11"
   }
 }
